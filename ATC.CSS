@@ -1,0 +1,99 @@
+body {
+box-sizing: border-box;
+background-image: url('/Users/Guest/Downloads/background.png');
+background-size: cover;  
+background-repeat: no-repeat;
+font-family: fantasy;
+}
+
+header {
+  background-color: goldenrod;
+  color: #ffffff;
+  padding: 20px;
+  font-style: BOLD;
+  font-family: fantasy ;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-flex;
+  margin-right: 20px;
+  color: white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  max-width: 75%;
+  margin: 20px auto;
+  padding: 0 20px;
+  display:flex;
+  
+  
+}
+
+section {
+  margin-bottom: 40px;
+  
+}
+
+h2 {
+  margin-top: 10;
+  color: white;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 24pt;
+}
+
+.card {
+  border: 1px transparent #000000fe;
+  padding: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.card img {
+  max-width: 100%;
+  
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p { 
+  color: white;
+  margin-bottom: 20px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.card a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #1e8bc651;
+  font-weight: bold;
+  margin-top: 10px;
+  
+}
+
+button {
+  background-color: #ffffff;
+  color: #53ba5743;
+  padding: 10px 20px;
+  border: none;
+  border-radius:
